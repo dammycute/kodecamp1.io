@@ -1,0 +1,183 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    align-items: center;
+    margin: 3rem auto;
+}
+
+.profile {
+    width: 20rem;
+    height: 20rem;
+    border-radius: 50%;
+}
+
+.menu {
+    height: 24px;
+}
+
+.text {
+    width: 700px;
+}
+
+.texty {
+    font-size: 1.2rem;
+    color: white;
+}
+
+.social-link {
+    margin: 20px;
+}
+
+.about {
+    display: flex;
+    justify-content: space-around;
+    margin: 1rem auto;
+    align-items: center;
+}
+
+.big-letter {
+    width: 45%;
+    font-size: 2rem;
+    margin-top: 4.5rem;
+}
+
+.small-text {
+    width: 45%;
+    margin-top: 2rem;
+}
+
+.small-text h5 {
+    font-size: 1.5rem;
+}
+
+.small-text p {
+    font-size: 1.25rem;
+}
+
+.section-one img {
+    margin: 0 auto;
+    width: 10%;
+    display: flex;
+}
+
+.section-one h1 {
+    font-size: 4rem;
+    text-align: center;
+}
+
+.section-one p {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.img1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.img2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.img1 img {
+    width: 20rem;
+    height: 15rem;
+    border-radius: 10px;
+}
+
+.img2 img {
+    margin-top: 3rem;
+    width: 20rem;
+    height: 15rem;
+    border-radius: 10px;
+}
+
+.btn {
+    display: flex;
+    width: 10%;
+    margin: 3rem auto;
+}
+
+.button {
+    padding: 12px 25px;
+    background-color: black;
+    color: white;
+}
+
+.all-text {
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.1rem;
+    margin-top: 7rem;
+}
+
+.text-left {
+    width: 40%;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.text-right {
+    width: 40%;
+}
+
+.contact {
+    width: 80%;
+    display: flex;
+    margin: 3rem auto;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contact h1 {
+    font-size: 4rem;
+}
+
+.location {
+    text-align: center;
+}
+
+.location p {
+    font-size: 18px;
+}
+
+.textf {
+    width: 20rem;
+}
+
+footer {
+    background-color: grey;
+    height: 15rem;
+}
+
+.foot {
+    margin-top: 3rem;
+    border-radius: 50%;
+    width: 10rem;
+    height: 10rem;
+}
+
+.text-container {
+    width: 60%;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.end {
+    margin-bottom: 7rem;
+}
